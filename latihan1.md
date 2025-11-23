@@ -1,3 +1,4 @@
+```python
 # ================================
 # Program Daftar Kontak (Dictionary)
 # ================================
@@ -103,3 +104,21 @@ while True:
 
     else:
         print("Pilihan tidak valid, coba lagi.")
+ ```
+ # hasil output
+<img width="1034" height="369" alt="Screenshot 2025-11-23 081952" src="https://github.com/user-attachments/assets/167d00d5-dc05-46a3-a54a-f1d5277bd74b" />
+<img width="1122" height="396" alt="Screenshot 2025-11-23 082026" src="https://github.com/user-attachments/assets/a284af4a-61b9-497f-a74a-779da473a8c0" />
+<img width="1137" height="496" alt="Screenshot 2025-11-23 082128" src="https://github.com/user-attachments/assets/770fe3c4-868f-483a-84c4-14f42aa8cf62" />
+<img width="1114" height="449" alt="Screenshot 2025-11-23 082152" src="https://github.com/user-attachments/assets/365afe3c-0e1d-4918-b873-c4df9be84f52" />
+<img width="1026" height="430" alt="Screenshot 2025-11-23 082205" src="https://github.com/user-attachments/assets/0be35fba-1565-459d-b7c0-e8b073a6d34d" />
+<img width="1115" height="430" alt="Screenshot 2025-11-23 082223" src="https://github.com/user-attachments/assets/44bca089-9eca-43b8-9312-8f94580d4918" />
+<img width="1101" height="481" alt="Screenshot 2025-11-23 082243" src="https://github.com/user-attachments/assets/c5abda94-0feb-4e53-9e17-de30e76ae4b7" />
+<img width="1128" height="462" alt="Screenshot 2025-11-23 082306" src="https://github.com/user-attachments/assets/3f79588c-2c53-4ad4-8c19-70342c991aba" />
+
+
+
+
+
+
+
+
